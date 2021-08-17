@@ -1,2 +1,28 @@
-# watchout-traffic
-Just a fun game built with Three JS
+<h1 align="center">Watchout Traffic</h1>
+
+[![stars - Watchout Traffic](https://img.shields.io/github/stars/Rafid-009/watchout-traffic?style=social)](https://github.com/Rafid-009/watchout-traffic)
+
+![Image of Let's Disco](src/assets/cover.png)
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://rafid-009.github.io/watchout-traffic/)
+
+This is one of my very first projects using [Three JS](https://threejs.org/). Thanks to various open source resources I have created this.
+
+<b>This was just a fun project that I tried.</b>
+
+## Features
+
+* Hosted on [GitHub-Pages](http://Rafid-009.github.io/watchout-traffic)
+* PWA Supported.
+
+
+## Contribution [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.png)](src/CONTRIBUTING.md)
+I just did this project for fun. But it's Open Source and available for quality contributions. Which are always appreciated.
+
+[![forks - Watchout Traffic](https://img.shields.io/github/forks/Rafid-009/watchout-traffic?style=social)](https://github.com/Rafid-009/watchout-traffic)
+
+Before making any changes, please read the [CONTRIBUTING GUIDELINE.](src/CONTRIBUTING.md)
+All the necessary instructions for succesing your PR are given there.
+
+### If you liked the project don't forget to drop a :star2: 
+

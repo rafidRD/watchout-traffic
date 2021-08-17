@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Watchout Traffic</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="src/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="src/assets/favicon/favicon32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="src/assets/favicon/favicon16.png">
+  <link rel="manifest" href="src/assets/favicon/site.webmanifest">
+  <link rel="stylesheet" href="src/css/style.css">
+
+</head>
+<body>
+<div id="score">Press UP</div>
+
+<div id="controls">
+  <div id="buttons">
+    <button id="accelerate">
+      <svg width="30" height="30" viewBox="0 0 10 10">
+        <g transform="rotate(0, 5,5)">
+          <path d="M5,4 L7,6 L3,6 L5,4" />
+        </g>
+      </svg>
+    </button>
+    <button id="decelerate">
+      <svg width="30" height="30" viewBox="0 0 10 10">
+        <g transform="rotate(180, 5,5)">
+          <path d="M5,4 L7,6 L3,6 L5,4" />
+        </g>
+      </svg>
+    </button>
+  </div>
+  <div id="instructions">
+    Press UP to start. Avoid collision with other vehicles by accelerating
+    or decelerating with the UP and DOWN keys.
+  </div>
+
+</div>
+
+<div id="results">
+  <div class="content">
+    <h1>Game Over</h1>
+    <h5>You have crashed!!</h5>
+    <p>To reset the game press R or click retry button</p>
+    <button onClick="window.location.reload();" class="retry" >Play Again?</button>
+       
+    <p>
+      Follow me
+      <a href="https://github.com/Rafid-009" , target="_blank">Rafid-009</a>
+    </p>
+  </div>
+</div>
+
+
+<!-- JavaScripts -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r126/three.min.js'></script>
+  <script  src="src/js/script.js"></script>
+
+</body>
+</html>
