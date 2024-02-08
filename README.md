@@ -1,6 +1,6 @@
 <h1 align="center">Watchout Traffic</h1>
 
-[![stars - Watchout Traffic](https://img.shields.io/github/stars/Rafid-009/watchout-traffic?style=social)](https://github.com/Rafid-009/watchout-traffic)
+[![stars - Watchout Traffic](https://img.shields.io/github/stars/Rafidrd/watchout-traffic?style=social)](https://github.com/Rafidrd/watchout-traffic)
 
 ![Image of Let's Disco](src/assets/cover.png)
 
@@ -12,14 +12,14 @@ This is one of my very first projects using [Three JS](https://threejs.org/). Th
 
 ## Features
 
-* Hosted on [GitHub-Pages](http://Rafid-009.github.io/watchout-traffic)
+* Hosted on [GitHub-Pages](http://Rafidrd.github.io/watchout-traffic)
 * PWA Supported.
 
 
 ## Contribution [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.png)](src/CONTRIBUTING.md)
 I just did this project for fun. But it's Open Source and available for quality contributions. Which are always appreciated.
 
-[![forks - Watchout Traffic](https://img.shields.io/github/forks/Rafid-009/watchout-traffic?style=social)](https://github.com/Rafid-009/watchout-traffic)
+[![forks - Watchout Traffic](https://img.shields.io/github/forks/Rafidrd/watchout-traffic?style=social)](https://github.com/Rafidrd/watchout-traffic)
 
 Before making any changes, please read the [CONTRIBUTING GUIDELINE.](src/CONTRIBUTING.md)
 All the necessary instructions for succesing your PR are given there.
